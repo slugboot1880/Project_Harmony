@@ -39,14 +39,10 @@ PostgreSQL
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/project-harmony.git
+git clone https://github.com/slugboot1880/Project_Harmony
 cd project-harmony
 
 Create and activate a virtual environment:
-
-# For macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
 
 # For Windows
 python -m venv venv
@@ -108,6 +104,3 @@ Communication
 GitHub Issues: For discussing specific tasks, features, or bugs.
 
 Discord/Slack: Set up a dedicated channel for the project for real-time discussions, questions, and team coordination.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
