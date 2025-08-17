@@ -1,0 +1,248 @@
+Date,Description,Category,Debit,Credit
+2025-05-01,Rent Payment - May,"Rent/Lease",-4500.00,
+2025-05-01,Greens Fees - Weekday,"Income",,225.50
+2025-05-01,Concession Sales,"Income",,110.25
+2025-05-02,Greens Fees - Weekday,"Income",,280.75
+2025-05-02,Concession Sales,"Income",,150.50
+2025-05-02,Inventory Purchase - Soda & Snacks,"COGS",-350.20,
+2025-05-03,Greens Fees - Weekend,"Income",,650.00
+2025-05-03,Concession Sales,"Income",,320.75
+2025-05-03,Birthday Party - "The Eagle" Package,"Income",,450.00
+2025-05-04,Greens Fees - Weekend,"Income",,720.50
+2025-05-04,Concession Sales,"Income",,380.25
+2025-05-05,Greens Fees - Weekday,"Income",,180.00
+2025-05-05,Concession Sales,"Income",,95.50
+2025-05-05,Landscaping Service,"Maintenance",-250.00,
+2025-05-06,Greens Fees - Weekday,"Income",,210.25
+2025-05-06,Concession Sales,"Income",,115.75
+2025-05-06,Internet Bill - May,"Utilities",-85.50,
+2025-05-07,Greens Fees - Weekday,"Income",,240.50
+2025-05-07,Concession Sales,"Income",,130.00
+2025-05-07,Payroll - J. Smith,"Wages",-600.00,
+2025-05-07,Payroll - A. Chen,"Wages",-600.00,
+2025-05-08,Greens Fees - Weekday,"Income",,260.75
+2025-05-08,Concession Sales,"Income",,140.25
+2025-05-08,Electricity Bill - April,"Utilities",-450.80,
+2025-05-09,Greens Fees - Weekday,"Income",,310.00
+2025-05-09,Concession Sales,"Income",,160.50
+2025-05-09,Marketing - Facebook Ad Campaign,"Marketing",-150.00,
+2025-05-10,Greens Fees - Weekend,"Income",,750.25
+2025-05-10,Concession Sales,"Income",,410.75
+2025-05-10,Birthday Party - "Hole-in-One" Package,"Income",,600.00
+2025-05-11,Greens Fees - Weekend,"Income",,810.50
+2025-05-11,Concession Sales,"Income",,450.00
+2025-05-12,Greens Fees - Weekday,"Income",,190.75
+2025-05-12,Concession Sales,"Income",,105.25
+2025-05-12,Maintenance - Water Pump Repair,"Maintenance",-320.00,
+2025-05-13,Greens Fees - Weekday,"Income",,220.00
+2025-05-13,Concession Sales,"Income",,120.50
+2025-05-14,Greens Fees - Weekday,"Income",,250.25
+2025-05-14,Concession Sales,"Income",,135.75
+2025-05-14,Payroll - J. Smith,"Wages",-600.00,
+2025-05-14,Payroll - A. Chen,"Wages",-600.00,
+2025-05-15,Greens Fees - Weekday,"Income",,270.50
+2025-05-15,Concession Sales,"Income",,145.00
+2025-05-15,Water Bill - April,"Utilities",-210.40,
+2025-05-16,Greens Fees - Weekday,"Income",,320.75
+2025-05-16,Concession Sales,"Income",,170.25
+2025-05-16,Inventory Purchase - Putters & Balls,"COGS",-550.00,
+2025-05-17,Greens Fees - Weekend,"Income",,850.00
+2025-05-17,Concession Sales,"Income",,480.50
+2025-05-18,Greens Fees - Weekend,"Income",,920.25
+2025-05-18,Concession Sales,"Income",,510.75
+2025-05-18,Corporate Event - "Team Builder" Package,"Income",,1200.00
+2025-05-19,Greens Fees - Weekday,"Income",,210.50
+2025-05-19,Concession Sales,"Income",,110.00
+2025-05-20,Greens Fees - Weekday,"Income",,230.75
+2025-05-20,Concession Sales,"Income",,125.25
+2025-05-20,Insurance Payment - Quarterly,"Insurance",-750.00,
+2025-05-21,Greens Fees - Weekday,"Income",,260.00
+2025-05-21,Concession Sales,"Income",,140.50
+2025-05-21,Payroll - J. Smith,"Wages",-600.00,
+2025-05-21,Payroll - A. Chen,"Wages",-600.00,
+2025-05-22,Greens Fees - Weekday,"Income",,280.25
+2025-05-22,Concession Sales,"Income",,150.75
+2025-05-23,Greens Fees - Weekday,"Income",,330.50
+2025-05-23,Concession Sales,"Income",,180.00
+2025-05-23,POS System Subscription,"Software",-49.99,
+2025-05-24,Greens Fees - Weekend,"Income",,950.75
+2025-05-24,Concession Sales,"Income",,530.25
+2025-05-25,Greens Fees - Weekend,"Income",,1050.00
+2025-05-25,Concession Sales,"Income",,580.50
+2025-05-26,Greens Fees - Holiday,"Income",,1200.25
+2025-05-26,Concession Sales,"Income",,650.75
+2025-05-27,Greens Fees - Weekday,"Income",,230.50
+2025-05-27,Concession Sales,"Income",,120.00
+2025-05-28,Greens Fees - Weekday,"Income",,250.75
+2025-05-28,Concession Sales,"Income",,135.25
+2025-05-28,Payroll - J. Smith,"Wages",-600.00,
+2025-05-28,Payroll - A. Chen,"Wages",-600.00,
+2025-05-29,Greens Fees - Weekday,"Income",,290.00
+2025-05-29,Concession Sales,"Income",,160.50
+2025-05-30,Greens Fees - Weekday,"Income",,350.25
+2025-05-30,Concession Sales,"Income",,190.75
+2025-05-31,Greens Fees - Weekend,"Income",,1100.50
+2025-05-31,Concession Sales,"Income",,610.00
+2025-06-01,Rent Payment - June,"Rent/Lease",-4500.00,
+2025-06-01,Greens Fees - Weekend,"Income",,980.75
+2025-06-01,Concession Sales,"Income",,540.25
+2025-06-02,Greens Fees - Weekday,"Income",,250.00
+2025-06-02,Concession Sales,"Income",,130.50
+2025-06-03,Greens Fees - Weekday,"Income",,270.25
+2025-06-03,Concession Sales,"Income",,145.75
+2025-06-03,Inventory Purchase - Candy & Ice Cream,"COGS",-420.50,
+2025-06-04,Greens Fees - Weekday,"Income",,300.50
+2025-06-04,Concession Sales,"Income",,160.00
+2025-06-04,Payroll - J. Smith,"Wages",-600.00,
+2025-06-04,Payroll - A. Chen,"Wages",-600.00,
+2025-06-05,Greens Fees - Weekday,"Income",,320.75
+2025-06-05,Concession Sales,"Income",,170.25
+2025-06-05,Landscaping Service,"Maintenance",-250.00,
+2025-06-06,Greens Fees - Weekday,"Income",,380.00
+2025-06-06,Concession Sales,"Income",,210.50
+2025-06-06,Internet Bill - June,"Utilities",-85.50,
+2025-06-07,Greens Fees - Weekend,"Income",,1150.25
+2025-06-07,Concession Sales,"Income",,620.75
+2025-06-07,Birthday Party - "The Eagle" Package,"Income",,450.00
+2025-06-08,Greens Fees - Weekend,"Income",,1250.50
+2025-06-08,Concession Sales,"Income",,680.00
+2025-06-09,Greens Fees - Weekday,"Income",,280.75
+2025-06-09,Concession Sales,"Income",,150.25
+2025-06-09,Electricity Bill - May,"Utilities",-510.90,
+2025-06-10,Greens Fees - Weekday,"Income",,310.00
+2025-06-10,Concession Sales,"Income",,165.50
+2025-06-11,Greens Fees - Weekday,"Income",,340.25
+2025-06-11,Concession Sales,"Income",,180.75
+2025-06-11,Payroll - J. Smith,"Wages",-600.00,
+2025-06-11,Payroll - A. Chen,"Wages",-600.00,
+2025-06-12,Greens Fees - Weekday,"Income",,360.50
+2025-06-12,Concession Sales,"Income",,190.00
+2025-06-13,Greens Fees - Weekday,"Income",,410.75
+2025-06-13,Concession Sales,"Income",,220.25
+2025-06-13,Marketing - Local Radio Spot,"Marketing",-300.00,
+2025-06-14,Greens Fees - Weekend,"Income",,1300.00
+2025-06-14,Concession Sales,"Income",,710.50
+2025-06-15,Greens Fees - Weekend,"Income",,1400.25
+2025-06-15,Concession Sales,"Income",,760.75
+2025-06-15,Birthday Party - "Hole-in-One" Package,"Income",,600.00
+2025-06-16,Greens Fees - Weekday,"Income",,300.50
+2025-06-16,Concession Sales,"Income",,160.00
+2025-06-16,Water Bill - May,"Utilities",-240.60,
+2025-06-17,Greens Fees - Weekday,"Income",,330.75
+2025-06-17,Concession Sales,"Income",,175.25
+2025-06-18,Greens Fees - Weekday,"Income",,360.00
+2025-06-18,Concession Sales,"Income",,190.50
+2025-06-18,Payroll - J. Smith,"Wages",-600.00,
+2025-06-18,Payroll - A. Chen,"Wages",-600.00,
+2025-06-19,Greens Fees - Weekday,"Income",,380.25
+2025-06-19,Concession Sales,"Income",,200.75
+2025-06-20,Greens Fees - Weekday,"Income",,430.50
+2025-06-20,Concession Sales,"Income",,230.00
+2025-06-20,Maintenance - Repaint Obstacles,"Maintenance",-450.00,
+2025-06-21,Greens Fees - Weekend,"Income",,1450.75
+2025-06-21,Concession Sales,"Income",,780.25
+2025-06-22,Greens Fees - Weekend,"Income",,1550.00
+2025-06-22,Concession Sales,"Income",,830.50
+2025-06-23,Greens Fees - Weekday,"Income",,320.50
+2025-06-23,Concession Sales,"Income",,170.00
+2025-06-23,POS System Subscription,"Software",-49.99,
+2025-06-24,Greens Fees - Weekday,"Income",,350.75
+2025-06-24,Concession Sales,"Income",,185.25
+2025-06-25,Greens Fees - Weekday,"Income",,380.00
+2025-06-25,Concession Sales,"Income",,200.50
+2025-06-25,Payroll - J. Smith,"Wages",-600.00,
+2025-06-25,Payroll - A. Chen,"Wages",-600.00,
+2025-06-26,Greens Fees - Weekday,"Income",,400.25
+2025-06-26,Concession Sales,"Income",,210.75
+2025-06-27,Greens Fees - Weekday,"Income",,450.50
+2025-06-27,Concession Sales,"Income",,240.00
+2025-06-28,Greens Fees - Weekend,"Income",,1600.75
+2025-06-28,Concession Sales,"Income",,860.25
+2025-06-28,Corporate Event - "Team Builder" Package,"Income",,1200.00
+2025-06-29,Greens Fees - Weekend,"Income",,1700.00
+2025-06-29,Concession Sales,"Income",,910.50
+2025-06-30,Greens Fees - Weekday,"Income",,350.25
+2025-06-30,Concession Sales,"Income",,185.75
+2025-07-01,Rent Payment - July,"Rent/Lease",-4500.00,
+2025-07-01,Greens Fees - Weekday,"Income",,400.50
+2025-07-01,Concession Sales,"Income",,210.00
+2025-07-02,Greens Fees - Weekday,"Income",,420.75
+2025-07-02,Concession Sales,"Income",,220.25
+2025-07-02,Payroll - J. Smith,"Wages",-600.00,
+2025-07-02,Payroll - A. Chen,"Wages",-600.00,
+2025-07-03,Greens Fees - Weekday,"Income",,480.00
+2025-07-03,Concession Sales,"Income",,260.50
+2025-07-04,Greens Fees - Holiday,"Income",,2200.25
+2025-07-04,Concession Sales,"Income",,1100.75
+2025-07-05,Greens Fees - Weekend,"Income",,1800.50
+2025-07-05,Concession Sales,"Income",,950.00
+2025-07-06,Greens Fees - Weekend,"Income",,1900.75
+2025-07-06,Concession Sales,"Income",,1000.25
+2025-07-07,Greens Fees - Weekday,"Income",,380.00
+2025-07-07,Concession Sales,"Income",,200.50
+2025-07-07,Landscaping Service,"Maintenance",-250.00,
+2025-07-08,Greens Fees - Weekday,"Income",,410.25
+2025-07-08,Concession Sales,"Income",,215.75
+2025-07-08,Internet Bill - July,"Utilities",-85.50,
+2025-07-09,Greens Fees - Weekday,"Income",,440.50
+2025-07-09,Concession Sales,"Income",,230.00
+2025-07-09,Payroll - J. Smith,"Wages",-600.00,
+2025-07-09,Payroll - A. Chen,"Wages",-600.00,
+2025-07-10,Greens Fees - Weekday,"Income",,460.75
+2025-07-10,Concession Sales,"Income",,240.25
+2025-07-10,Electricity Bill - June,"Utilities",-580.20,
+2025-07-11,Greens Fees - Weekday,"Income",,510.00
+2025-07-11,Concession Sales,"Income",,270.50
+2025-07-11,Inventory Purchase - Souvenirs,"COGS",-600.00,
+2025-07-12,Greens Fees - Weekend,"Income",,1950.25
+2025-07-12,Concession Sales,"Income",,1020.75
+2025-07-12,Birthday Party - "Hole-in-One" Package,"Income",,600.00
+2025-07-13,Greens Fees - Weekend,"Income",,2050.50
+2025-07-13,Concession Sales,"Income",,1080.00
+2025-07-14,Greens Fees - Weekday,"Income",,400.75
+2025-07-14,Concession Sales,"Income",,210.25
+2025-07-15,Greens Fees - Weekday,"Income",,430.00
+2025-07-15,Concession Sales,"Income",,225.50
+2025-07-15,Water Bill - June,"Utilities",-280.70,
+2025-07-16,Greens Fees - Weekday,"Income",,460.25
+2025-07-16,Concession Sales,"Income",,240.75
+2025-07-16,Payroll - J. Smith,"Wages",-600.00,
+2025-07-16,Payroll - A. Chen,"Wages",-600.00,
+2025-07-17,Greens Fees - Weekday,"Income",,480.50
+2025-07-17,Concession Sales,"Income",,250.00
+2025-07-18,Greens Fees - Weekday,"Income",,530.75
+2025-07-18,Concession Sales,"Income",,280.25
+2025-07-18,Marketing - Flyer Printing,"Marketing",-120.00,
+2025-07-19,Greens Fees - Weekend,"Income",,2100.00
+2025-07-19,Concession Sales,"Income",,1110.50
+2025-07-20,Greens Fees - Weekend,"Income",,2200.25
+2025-07-20,Concession Sales,"Income",,1160.75
+2025-07-20,Insurance Payment - Quarterly,"Insurance",-750.00,
+2025-07-21,Greens Fees - Weekday,"Income",,420.50
+2025-07-21,Concession Sales,"Income",,220.00
+2025-07-22,Greens Fees - Weekday,"Income",,450.75
+2025-07-22,Concession Sales,"Income",,235.25
+2025-07-23,Greens Fees - Weekday,"Income",,480.00
+2025-07-23,Concession Sales,"Income",,250.50
+2025-07-23,Payroll - J. Smith,"Wages",-600.00,
+2025-07-23,Payroll - A. Chen,"Wages",-600.00,
+2025-07-23,POS System Subscription,"Software",-49.99,
+2025-07-24,Greens Fees - Weekday,"Income",,500.25
+2025-07-24,Concession Sales,"Income",,260.75
+2025-07-25,Greens Fees - Weekday,"Income",,550.50
+2025-07-25,Concession Sales,"Income",,290.00
+2025-07-26,Greens Fees - Weekend,"Income",,2300.75
+2025-07-26,Concession Sales,"Income",,1210.25
+2025-07-27,Greens Fees - Weekend,"Income",,2400.00
+2025-07-27,Concession Sales,"Income",,1260.50
+2025-07-28,Greens Fees - Weekday,"Income",,450.25
+2025-07-28,Concession Sales,"Income",,235.75
+2025-07-29,Greens Fees - Weekday,"Income",,480.50
+2025-07-29,Concession Sales,"Income",,250.00
+2025-07-30,Greens Fees - Weekday,"Income",,510.75
+2025-07-30,Concession Sales,"Income",,270.25
+2025-07-30,Payroll - J. Smith,"Wages",-600.00,
+2025-07-30,Payroll - A. Chen,"Wages",-600.00,
+2025-07-31,Greens Fees - Weekday,"Income",,580.00
+2025-07-31,Concession Sales,"Income",,310.50
+2025-07-31,Bank Service Charges,"Bank Fees",-25.00,
