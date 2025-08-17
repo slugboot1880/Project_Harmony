@@ -13,7 +13,7 @@ Financial Reporting: Generate essential financial statements, including the Bala
 
 User-Friendly Interface: A clean and intuitive UI that makes navigating complex financial data straightforward.
 
-Secure & Reliable: Built with security best practices to ensure your financial data is always safe.
+Secure & Reliable: Built with security best practices to ensure your financial data is always safe.a
 
 API for Integration: A RESTful API to connect Project Harmony with other business tools and systems.
 
@@ -75,17 +75,6 @@ The application will be available at http://127.0.0.1:5000/.
 
 Usage
 After installation, you can navigate to http://127.0.0.1:5000/ in your browser.
-
-Register a new user account.
-
-Set up your company's Chart of Accounts.
-
-Begin creating and posting journal entries for your business transactions.
-
-Generate financial reports to view your company's performance.
-
-Collaborating on Project Harmony
-This project is set up for collaboration, and we welcome contributions! To ensure a smooth workflow for everyone, regardless of where they are in the world, please follow these guidelines.
 
 Workflow
 Pick an Issue: Go to the Issues tab on GitHub. Find an open issue you'd like to work on and assign it to yourself, or create a new one if you have a new idea. This prevents multiple people from working on the same thing.
